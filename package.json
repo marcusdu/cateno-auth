@@ -1,0 +1,7 @@
+{
+  "name": "cateno-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcus Rodriguesr <marcus.rodrigues@prestadores.cateno.com.br>",
+  "license": "MIT"
+}
